@@ -32,9 +32,6 @@ function App() {
   }
   };
   
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  // }
 
   const handleCatchphrase = (e) => {
     e.preventDefault();
